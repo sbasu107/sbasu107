@@ -29,7 +29,8 @@ I’m a Computer Science and Data Science student at the University of Wisconsin
   Developed Python-based control and visualization software for an **electron beam powder bed fusion (EB-PBF) metal additive manufacturing system**, interfacing with embedded hardware and live system state.
 
 - **Software Lead @ Badger Solar Racing**  
-  Architected a real-time telemetry platform streaming CAN data from microcontrollers over radio and LTE. Building multithreaded services and led a 6-person team delivering driver dashboards and monitoring tools.
+  Architected a real-time telemetry platform streaming CAN data from microcontrollers over radio and LTE. Building multithreaded services and led a 6-person team delivering driver dashboards and monitoring tools. Currently serving as an administrator for the team’s GitHub organization, managing repositories and access.
+
 
 ## 🛠️ Technologies
 - **Languages:** C, C++, Python, Java  
