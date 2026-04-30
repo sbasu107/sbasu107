@@ -33,7 +33,7 @@ I’m a Computer Science and Data Science student at the University of Wisconsin
 
 
 ## 🛠️ Technologies
-- **Languages:** C, C++, Python, Java, Javascript
+- **Languages:** C, C++, Python, Java, JavaScript
 - **Systems:** Linux, embedded systems, real-time software  
 - **Hardware:** Raspberry Pi, CAN, LTE  
 - **Tools:** MATLAB, Simulink, Redis, React, Three.js
