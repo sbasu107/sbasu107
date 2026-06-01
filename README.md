@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi, I’m Shobhin 👋
 
-I'm a **Computer Science + Data Science** senior at the University of Wisconsin–Madison. I love building **software systems that interface with the physical world** — from real-time embedded systems to intuitive control dashboards and data pipelines.
+I'm a **Computer Science + Data Science** senior at the University of Wisconsin–Madison. I love building **software systems that interface with the physical world**, from real-time embedded systems to intuitive control dashboards and data pipelines.
 
 ## 🔧 What I Work On
 - Real-time software and hardware integration
