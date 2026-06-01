@@ -16,34 +16,42 @@ Here are some ideas to get you started:
 
 # Hi, I’m Shobhin 👋
 
-I’m a Computer Science and Data Science student at the University of Wisconsin–Madison interested in building **software systems that interface with the physical world**, from real-time telemetry to metal additive manufacturing.
+I'm a **Computer Science + Data Science** senior at the University of Wisconsin–Madison. I love building **software systems that interface with the physical world** — from real-time embedded systems to intuitive control dashboards and data pipelines.
 
-## 🔧 What I work on
-- **Real-time & embedded systems** (C++ / Python, Linux)
-- **Hardware-integrated software** (microcontrollers, CAN, serial, LTE)
-- **Data acquisition & visualization** for high-rate sensor systems
-- **Manufacturing & controls software** for experimental and production environments
+## 🔧 What I Work On
+- Real-time software and hardware integration
+- Control systems, telemetry platforms, and data visualization
+- Building tools and dashboards that help engineers and researchers work more effectively
+- Bridging software development with hardware, electronics, and manufacturing
 
-## 🧪 Experience highlights
-- **Undergraduate Researcher @ Morgridge Institute for Research**  
-  Developed Python-based control and visualization software for an **electron beam powder bed fusion (EB-PBF) metal additive manufacturing system**, interfacing with embedded hardware and live system state.
+## 🧪 Experience Highlights
 
-- **Software Lead @ Badger Solar Racing**  
-  Architected a real-time telemetry platform streaming CAN data from microcontrollers over radio and LTE. Building multithreaded services and led a 6-person team delivering driver dashboards and monitoring tools. Currently serving as an administrator for the team’s GitHub organization, managing repositories and access.
+**Undergraduate Researcher @ Morgridge Institute for Research**  
+- Developed a comprehensive real-time **Tkinter control dashboard** for a high-voltage electron beam system, featuring live hardware monitoring, pulse generation controls, and Matplotlib visualizations.
+- Architected an **energy-aware dual-LUT calibration system** with automated data processing, interpolation, and physics-based calculations.
+- Built modular software architecture, data pipelines, and hardware regression test plans to support reliable hardware-in-the-loop testing.
 
+**Software Lead @ Badger Solar Racing**
+- Lead a 6-member software team developing real-time driver dashboards and chase-car monitoring tools using React Native, Firebase, and 3D visualization.
+- Architected a full telemetry platform that streams CAN bus data from STM32 Nucleo boards over radio and LTE to the cloud for live analytics and race strategy.
+- Built multithreaded Python services for reliable low-latency hardware communication and data synchronization.
+- GitHub organization owner and maintainer.
+
+**Race Strategy Member @ Badger Solar Racing** (2024 – 2025)
+- Developed real-time Python data processing pipelines integrating telemetry with MATLAB/Simulink models for race optimization.
 
 ## 🛠️ Technologies
-- **Languages:** C, C++, Python, Java, JavaScript
-- **Systems:** Linux, embedded systems, real-time software  
-- **Hardware:** Raspberry Pi, CAN, LTE  
-- **Tools:** MATLAB, Simulink, Redis, React, Three.js
 
-## 🚀 What I’m interested in
-- Software-defined manufacturing
-- Robotics & industrial automation
-- Real-time data systems
-- Controls & production software
+**Languages:** Python, JavaScript/TypeScript, C/C++, MATLAB, SQL  
+**Tools & Frameworks:** Tkinter, React Native, Firebase, Redis, Matplotlib, Modbus, CAN bus, Altium Designer, Git  
+**Interests:** Real-time systems, Hardware-in-the-Loop, Data Acquisition, GUI Development, Embedded Systems, Controls Software
 
-## 📫 Get in touch
-- LinkedIn: https://www.linkedin.com/in/shobhin-basu  
-- Email: sbasu25@wisc.edu
+## 🚀 What I’m Interested In
+- Software that brings physical products and systems to life
+- Real-time data systems and industrial automation
+- Robotics, manufacturing software, and hardware tooling
+
+## 📫 Get in Touch
+- **Email:** sbasu25@wisc.edu  
+- **LinkedIn:** [linkedin.com/in/shobhin-basu](https://www.linkedin.com/in/shobhin-basu)  
+---
