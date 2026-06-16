@@ -13,45 +13,65 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Hi, I'm Shobhin 👋
 
-# Hi, I’m Shobhin 👋
+I'm a **Computer Science** student of the University of Wisconsin–Madison, currently building **AI agents and automated workflows** for employment-based immigration at **VisaHub**, and serving as an **Honorary Associate at UW-Madison's Department of Mechanical Engineering** supporting Badger Solar Racing through the 2026 competition season.
 
-I'm a **Computer Science + Data Science** senior at the University of Wisconsin–Madison. I love building **software systems that interface with the physical world**, from real-time embedded systems to intuitive control dashboards and data pipelines.
+I love building software that works in the real world — from embedded systems and telemetry platforms to full-stack applications and AI pipelines.
+
+---
 
 ## 🔧 What I Work On
-- Real-time software and hardware integration
-- Control systems, telemetry platforms, and data visualization
-- Building tools and dashboards that help engineers and researchers work more effectively
-- Bridging software development with hardware, electronics, and manufacturing
+
+- AI agent design, evaluation, and agentic workflow automation
+- Real-time embedded systems and hardware-software integration
+- Full-stack web and mobile applications
+- Data pipelines, telemetry platforms, and operational tooling
+
+---
 
 ## 🧪 Experience Highlights
 
-**Undergraduate Researcher @ Morgridge Institute for Research**  
-- Developed a comprehensive real-time **Tkinter control dashboard** for a high-voltage electron beam system, featuring live hardware monitoring, pulse generation controls, and Matplotlib visualizations.
-- Architected an **energy-aware dual-LUT calibration system** with automated data processing, interpolation, and physics-based calculations.
-- Built modular software architecture, data pipelines, and hardware regression test plans to support reliable hardware-in-the-loop testing.
+**AI Engineering Intern @ VisaHub** *(2026)*
+- Building AI agents and automated workflows for employment-based U.S. immigration (O-1A, EB-2 NIW, EB-1A and more)
+- Designing and evaluating agentic pipelines that validate visa applications end to end
+- Working directly with the founding team on a modern legaltech platform
 
-**Software Lead @ Badger Solar Racing**
-- Lead a 6-member software team developing real-time driver dashboards and chase-car monitoring tools using React Native, Firebase, and 3D visualization.
-- Architected a full telemetry platform that streams CAN bus data from STM32 Nucleo boards over radio and LTE to the cloud for live analytics and race strategy.
-- Built multithreaded Python services for reliable low-latency hardware communication and data synchronization.
-- GitHub organization owner and maintainer.
+**Honorary Associate @ UW-Madison College of Engineering** *(Summer 2026)*
+- Supporting Badger Solar Racing through the Formula Sun Grand Prix and American Solar Challenge
+- Continuing software platform development and vehicle integration in Madison
 
-**Race Strategy Member @ Badger Solar Racing** (2024 – 2025)
-- Developed real-time Python data processing pipelines integrating telemetry with MATLAB/Simulink models for race optimization.
+**Software Lead @ Badger Solar Racing** *(2025 – 2026)*
+- Architected a real-time telemetry platform in C using SocketCAN for CAN bus communication, with multi-sink data routing to radio, cloud, and local storage
+- Led development of a cross-platform React Native app shipped to Apple and Google Play internal beta and web (GitHub Pages)
+- Provisioned and deployed Linux hardware, managed CI/CD pipelines, and directed hardware-in-the-loop integration testing across a 6-member team
+
+**Undergraduate Researcher @ Morgridge Institute for Research** *(2025 – 2026)*
+- Built real-time Python software to monitor and control an electron beam powered metal 3D printer
+- Connected multiple devices over USB/serial for beam control, power supply, and high-voltage monitoring
+- Developed hardware-in-the-loop test procedures with full audit trail documentation
+
+**Race Strategy Member @ Badger Solar Racing** *(2024 – 2025)*
+- Built Python data pipelines integrating real-time telemetry with MATLAB/Simulink physics models
+- Containerized and deployed a race prediction service to the cloud using Docker
+
+---
 
 ## 🛠️ Technologies
 
-**Languages:** Python, JavaScript/TypeScript, C/C++, MATLAB, SQL  
-**Tools & Frameworks:** Tkinter, React Native, Firebase, Redis, Matplotlib, Modbus, CAN bus, Altium Designer, Git  
-**Interests:** Real-time systems, Hardware-in-the-Loop, Data Acquisition, GUI Development, Embedded Systems, Controls Software
+**Languages:** Python, C/C++, TypeScript, JavaScript, SQL, Bash, MATLAB  
+**AI & ML:** PyTorch, scikit-learn, LLM/AI agent development, Cursor, Copilot, Claude  
+**Embedded & Systems:** CAN bus (SocketCAN), STM32, Raspberry Pi, USB/serial, multithreaded I/O, HIL testing  
+**Web & Mobile:** React, React Native, Supabase, Firebase, Redis, REST APIs, Docker, Kubernetes  
+**DevOps:** Git/GitHub (Admin), CI/CD pipelines, Linux, Bash scripting, Tailscale  
 
-## 🚀 What I’m Interested In
-- Software that brings physical products and systems to life
-- Real-time data systems and industrial automation
-- Robotics, manufacturing software, and hardware tooling
+---
 
 ## 📫 Get in Touch
-- **Email:** sbasu25@wisc.edu  
-- **LinkedIn:** [linkedin.com/in/shobhin-basu](https://www.linkedin.com/in/shobhin-basu)  
+
+- **Email:** sbasu25@wisc.edu
+- **LinkedIn:** [linkedin.com/in/shobhin-basu](https://linkedin.com/in/shobhin-basu)
+
 ---
+
+*Open to full-time software engineering roles starting Fall 2026.*
