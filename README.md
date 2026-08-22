@@ -12,66 +12,65 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 # Hi, I'm Shobhin 👋
 
-I'm a **Computer Science** student of the University of Wisconsin–Madison, currently building **AI agents and automated workflows** for employment-based immigration at **VisaHub**, and serving as an **Honorary Associate at UW-Madison's Department of Mechanical Engineering** supporting Badger Solar Racing through the 2026 competition season.
+B.S. Computer Science, University of Wisconsin-Madison (Aug. 2026). I am an AI and Software Engineering Intern at **VisaHub**, and I recently finished as Software Lead for **Badger Solar Racing**. Based in the San Francisco Bay Area.
 
-I love building software that works in the real world — from embedded systems and telemetry platforms to full-stack applications and AI pipelines.
-
----
-
-## 🔧 What I Work On
-
-- AI agent design, evaluation, and agentic workflow automation
-- Real-time embedded systems and hardware-software integration
-- Full-stack web and mobile applications
-- Data pipelines, telemetry platforms, and operational tooling
+I build software that has to work in the field: dashboards for race weekends, control software for lab hardware, and production web apps for people who are not engineers.
 
 ---
 
-## 🧪 Experience Highlights
+## What I work on
 
-**AI Engineering Intern @ VisaHub** *(2026)*
-- Building AI agents and automated workflows for employment-based U.S. immigration (O-1A, EB-2 NIW, EB-1A and more)
-- Designing and evaluating agentic pipelines that validate visa applications end to end
-- Working directly with the founding team on a modern legaltech platform
+- Full-stack web and mobile applications (React, React Native, TypeScript)
+- Real-time telemetry, Linux services, and hardware-software integration
+- Data pipelines, CI/CD, and operational tooling
+- AI agents and evaluation for production workflows
+
+---
+
+## Experience
+
+**AI and Software Engineering Intern @ VisaHub** *(Jun. 2026 - present)*
+- Build AI agents that evaluate employment-based immigration applications section by section
+- Integrate LLM APIs into production Python workflows with the founding team
+- Test agent behavior on real edge cases before release
+
+**Software Lead @ Badger Solar Racing** *(2025 - 2026)*
+- Led a 6-member team building React Native dashboards for iOS, Android, and web (internal TestFlight / Play beta, plus GitHub Pages)
+- Built a C daemon on Linux for CAN bus acquisition (SocketCAN) with multi-sink routing to radio, cloud, and local storage
+- Ran CI/CD, provisioned Linux hardware, and maintained the GitHub organization as Admin
 
 **Honorary Associate @ UW-Madison College of Engineering** *(Summer 2026)*
-- Supporting Badger Solar Racing through the Formula Sun Grand Prix and American Solar Challenge
-- Continuing software platform development and vehicle integration in Madison
+- Supported Badger Solar Racing through the Formula Sun Grand Prix and American Solar Challenge
+- Continued software platform development and vehicle integration in Madison after the academic year ended
 
-**Software Lead @ Badger Solar Racing** *(2025 – 2026)*
-- Architected a real-time telemetry platform in C using SocketCAN for CAN bus communication, with multi-sink data routing to radio, cloud, and local storage
-- Led development of a cross-platform React Native app shipped to Apple and Google Play internal beta and web (GitHub Pages)
-- Provisioned and deployed Linux hardware, managed CI/CD pipelines, and directed hardware-in-the-loop integration testing across a 6-member team
+**Software Engineer (Agile Team) @ Schneider National CS Capstone** *(Jan 2026 - May 2026)*
+- Shipped TypeScript/React features for a logistics platform used by independent truck drivers
+- Integrated PostgreSQL via Supabase, serverless functions, and REST APIs with structured testing before each release
 
-**Undergraduate Researcher @ Morgridge Institute for Research** *(2025 – 2026)*
-- Built real-time Python software to monitor and control an electron beam powered metal 3D printer
-- Connected multiple devices over USB/serial for beam control, power supply, and high-voltage monitoring
-- Developed hardware-in-the-loop test procedures with full audit trail documentation
+**Undergraduate Researcher @ Morgridge Institute for Research** *(May 2025 - May 2026)*
+- Wrote real-time Python software to monitor and control an electron-beam metal 3D printer
+- Integrated devices over USB/serial and kept audit trail documentation for lab staff
 
-**Race Strategy Member @ Badger Solar Racing** *(2024 – 2025)*
-- Built Python data pipelines integrating real-time telemetry with MATLAB/Simulink physics models
-- Containerized and deployed a race prediction service to the cloud using Docker
+**Race Strategy Member & Data Engineer @ Badger Solar Racing** *(2024 - 2025)*
+- Built a Python pipeline to ingest and validate live vehicle telemetry via Redis
+- Containerized and deployed a race prediction service with Docker
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
-**Languages:** Python, C/C++, TypeScript, JavaScript, SQL, Bash, MATLAB  
-**AI & ML:** PyTorch, scikit-learn, LLM/AI agent development, Cursor, Copilot, Claude  
-**Embedded & Systems:** CAN bus (SocketCAN), STM32, Raspberry Pi, USB/serial, multithreaded I/O, HIL testing  
-**Web & Mobile:** React, React Native, Supabase, Firebase, Redis, REST APIs, Docker, Kubernetes  
-**DevOps:** Git/GitHub (Admin), CI/CD pipelines, Linux, Bash scripting, Tailscale  
+**Languages:** Python, TypeScript, JavaScript, C, SQL, Bash, Java, MATLAB
+**Web & APIs:** React, React Native, REST APIs, Supabase, Firebase, Redis, PostgreSQL
+**Systems:** Linux, SocketCAN, Raspberry Pi, USB/serial, Docker, CI/CD, Git/GitHub (Admin)
+**AI tooling:** Cursor, GitHub Copilot, Claude; PyTorch (coursework)
 
 ---
 
-## 📫 Get in Touch
+## Get in touch
 
-- **Email:** sbasu25@wisc.edu
+- **Email:** [sbasu25@wisc.edu](mailto:sbasu25@wisc.edu)
 - **LinkedIn:** [linkedin.com/in/shobhin-basu](https://linkedin.com/in/shobhin-basu)
 
----
-
-*Open to full-time software engineering roles starting Fall 2026.*
+Open to full-time software engineering roles. Available immediately.
