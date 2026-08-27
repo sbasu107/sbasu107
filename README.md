@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Shobhin 👋
 
-B.S. Computer Science, University of Wisconsin-Madison (Aug. 2026). I am an AI and Software Engineering Intern at **VisaHub**, and I recently finished as Software Lead for **Badger Solar Racing**. Based in the San Francisco Bay Area.
+B.S. Computer Science, University of Wisconsin-Madison. I am an AI and Software Engineering Intern at **VisaHub**, and I recently finished as Software Lead for **Badger Solar Racing**. Based in the San Francisco Bay Area.
 
 I build software that has to work in the field: dashboards for race weekends, control software for lab hardware, and production web apps for people who are not engineers.
 
